@@ -1,8 +1,12 @@
+Fork-warning:
+========
+This is a fork of [vanderlee/phpSyllable](https://github.com/vanderlee/phpSyllable) with very limited language selection to alleviate licensing concerns.
+
+Currently it contains only the languages `de` and `en-US`. 
+
 Syllable
 ========
 Version 1.4.5
-
-[![Build Status](https://travis-ci.org/vanderlee/phpSyllable.svg)](https://travis-ci.org/vanderlee/phpSyllable)
 
 Copyright &copy; 2011-2016 Martijn van der Lee.
 MIT Open Source license applies.
