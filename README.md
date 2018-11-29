@@ -4,6 +4,8 @@ This is a fork of [vanderlee/phpSyllable](https://github.com/vanderlee/phpSyllab
 
 Currently it contains only the languages `de` and `en-US`. 
 
+All files in folder /doc/ have been removed.
+
 Syllable
 ========
 Version 1.4.5
